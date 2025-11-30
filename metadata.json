@@ -1,0 +1,5 @@
+{
+  "name": "RSS Čtečka s AI",
+  "description": "Moderní RSS čtečka s možností filtrování obsahu a generování souhrnů pomocí Gemini AI.",
+  "requestFramePermissions": []
+}
